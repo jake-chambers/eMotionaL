@@ -7,9 +7,6 @@ import pandas as pd
 import librosa
 import librosa.display
 import numpy as np
-import matplotlib
-matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt
 import keras
 from keras.models import load_model
 import os
