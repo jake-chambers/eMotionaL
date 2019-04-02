@@ -1,26 +1,18 @@
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">eMotionaL</h3>
-
-  <p align="center">
-    Awarded most innovative project. Fourth year capstone project that can predict human emotion through vocal input using machine learning techniques (Keras & Tensorflow).
-   </p>
-</p>
-
-
-
+  <h1>eMotionaL</h1>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Contact](#contact)
 * [Installation](#installation)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Awarded most innovative project. Fourth year capstone project that can predict human emotion through vocal input using      machine learning techniques (Keras & Tensorflow).
+
 This project set out to determine the emotion of the user based on only vocal analysis. To do this a convolutional neural network was used to train a model that could predict emotions with ~%80 accuracy.
 
 ### Built With
@@ -36,7 +28,7 @@ Here is the tech used to create this project.
 <!-- CONTACT -->
 ## Contact
 
-Sheldon Coates - [LinkedIn](https://www.linkedin.com/in/jacob-chambers-3bb06112b/) - jake_chambers12@hotmail.com
+Jacob Chambers - [LinkedIn](https://www.linkedin.com/in/jacob-chambers-3bb06112b/) - jake_chambers12@hotmail.com
 
 
 <!-- Installation -->
