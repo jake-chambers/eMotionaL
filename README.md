@@ -1,5 +1,5 @@
 <h1>eMotionaL</h1>
-<!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
