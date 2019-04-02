@@ -1,5 +1,4 @@
-<!-- PROJECT LOGO -->
-  <h1>eMotionaL</h1>
+<h1>eMotionaL</h1>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
